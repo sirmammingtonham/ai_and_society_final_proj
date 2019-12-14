@@ -1,5 +1,6 @@
 # FakeBlock
-> Proof of concept Google Chrome extension that blocks deepfakes.
+Proof of concept Google Chrome extension that blocks deepfakes.
+
 [![how it works:](https://github.com/sirmammingtonham/FakeBlock/blob/master/demo.gif?raw=true)](https://docs.google.com/presentation/d/1CHGox3OH4PVB3Ks_ThE1JMyCckJGKKIai0LA9rffEec/edit?usp=sharing)
 
 ## Installation:
