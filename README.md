@@ -1,7 +1,8 @@
 # FakeBlock
 Proof of concept Google Chrome extension that blocks deepfakes.
 
-[![how it works:](https://github.com/sirmammingtonham/FakeBlock/blob/master/demo.gif?raw=true)](https://docs.google.com/presentation/d/1CHGox3OH4PVB3Ks_ThE1JMyCckJGKKIai0LA9rffEec/edit?usp=sharing)
+[![how it works:](https://github.com/sirmammingtonham/
+ai_and_society_final_proj/blob/master/demo.gif?raw=true)](https://docs.google.com/presentation/d/1CHGox3OH4PVB3Ks_ThE1JMyCckJGKKIai0LA9rffEec/edit?usp=sharing)
 
 ## Installation:
 Clone this repository, then run install dependencies with ```pip install -r requirements.txt```.
